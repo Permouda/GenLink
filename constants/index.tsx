@@ -11,7 +11,7 @@ export const SOCIAL_MEDIA_LINKS = [
       icon: <FaInstagram fontSize={30} className="hover:opacity-80" />,
     },
     {
-      href: "https://x.com/Permouda",
+      href: "https://x.com/elhaddaji_",
       icon: <FaXTwitter fontSize={30} className="hover:opacity-80" />,
     },
   ];
